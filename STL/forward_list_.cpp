@@ -1,6 +1,10 @@
 #include "assistFunc.h"
 #include <forward_list>
 
+/**
+ *  forward_list 单向链表
+ **/
+
 int main() {
     forward_list<string> lis;
     char buf[10];
